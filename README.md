@@ -1,5 +1,5 @@
 # Video-Lessons
-This is duplicate repo of rainbowCoder.
+
 I'm using this repo to keep track of supplemental content for my video lessons. This includes:
 
 * captions
